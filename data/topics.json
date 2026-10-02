@@ -1,0 +1,164 @@
+[
+  {
+    "id": "12",
+    "title": "Git Basics",
+    "category": "git",
+    "difficulty": 2,
+    "duration": 30,
+    "completed": false,
+    "description": "Learn repositories, commits, branches, and basic Git commands."
+  },
+  {
+    "id": "4",
+    "title": "JavaScript Variables",
+    "category": "javascript",
+    "difficulty": 2,
+    "duration": 25,
+    "completed": true,
+    "description": "Learn how to store and work with data using let and const."
+  },
+  {
+    "id": "15",
+    "title": "HTTP and APIs",
+    "category": "backend",
+    "difficulty": 4,
+    "duration": 45,
+    "completed": false,
+    "description": "Understand HTTP requests, responses, methods, and APIs."
+  },
+  {
+    "id": "2",
+    "title": "CSS Grid",
+    "category": "Css",
+    "difficulty": 4,
+    "duration": 40,
+    "completed": false,
+    "description": "Learn how to create powerful two-dimensional layouts with CSS Grid."
+  },
+  {
+    "id": "17",
+    "title": "JSON Data",
+    "category": "backend",
+    "difficulty": 3,
+    "duration": 30,
+    "completed": true,
+    "description": "Learn how to read, create, parse, and work with JSON data."
+  },
+  {
+    "id": "9",
+    "title": "HTML Forms",
+    "category": "HTML",
+    "difficulty": 3,
+    "duration": 30,
+    "completed": false,
+    "description": "Learn how to create forms and collect information from users."
+  },
+  {
+    "id": "6",
+    "title": "Array Methods",
+    "category": "javascript",
+    "difficulty": 4,
+    "duration": 45,
+    "completed": true,
+    "description": "Learn map, filter, reduce, find, and other useful array methods."
+  },
+  {
+    "id": "1",
+    "title": "Flexbox Layout",
+    "category": "Css",
+    "difficulty": 3,
+    "duration": 30,
+    "completed": false,
+    "description": "Learn how to build modern one-dimensional layouts using CSS Flexbox."
+  },
+  {
+    "id": "14",
+    "title": "Git Merge and Pull",
+    "category": "git",
+    "difficulty": 4,
+    "duration": 35,
+    "completed": true,
+    "description": "Learn how to merge branches and work with remote repositories."
+  },
+  {
+    "id": "8",
+    "title": "Async and Await",
+    "category": "javascript",
+    "difficulty": 5,
+    "duration": 50,
+    "completed": false,
+    "description": "Understand asynchronous JavaScript using promises and async/await."
+  },
+  {
+    "id": "11",
+    "title": "HTML Tables",
+    "category": "HTML",
+    "difficulty": 2,
+    "duration": 25,
+    "completed": false,
+    "description": "Learn how to organize and display tabular data using HTML tables."
+  },
+  {
+    "id": "5",
+    "title": "Functions",
+    "category": "javascript",
+    "difficulty": 3,
+    "duration": 30,
+    "completed": false,
+    "description": "Learn how to create reusable blocks of JavaScript code."
+  },
+  {
+    "id": "18",
+    "title": "REST APIs",
+    "category": "backend",
+    "difficulty": 5,
+    "duration": 50,
+    "completed": false,
+    "description": "Learn the basic principles of building and using REST APIs."
+  },
+  {
+    "id": "3",
+    "title": "Responsive Design",
+    "category": "Css",
+    "difficulty": 4,
+    "duration": 45,
+    "completed": false,
+    "description": "Learn how to make websites adapt to different screen sizes and devices."
+  },
+  {
+    "id": "10",
+    "title": "Semantic HTML",
+    "category": "HTML",
+    "difficulty": 2,
+    "duration": 25,
+    "completed": true,
+    "description": "Learn how semantic HTML elements improve structure and accessibility."
+  },
+  {
+    "id": "7",
+    "title": "DOM Manipulation",
+    "category": "javascript",
+    "difficulty": 4,
+    "duration": 40,
+    "completed": false,
+    "description": "Learn how JavaScript can select and modify HTML elements."
+  },
+  {
+    "id": "13",
+    "title": "Git Branching",
+    "category": "git",
+    "difficulty": 4,
+    "duration": 40,
+    "completed": false,
+    "description": "Learn how to create, switch, merge, and manage Git branches."
+  },
+  {
+    "id": "16",
+    "title": "Fetch API",
+    "category": "backend",
+    "difficulty": 4,
+    "duration": 40,
+    "completed": false,
+    "description": "Learn how to request data from APIs using the Fetch API."
+  }
+]
