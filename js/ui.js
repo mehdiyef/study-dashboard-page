@@ -200,19 +200,4 @@ export function error_display(err) {
 
 }
 
-// export function render_sidebar() {
-//   let side_bar = `<a href="#"
-//       class="flex capitalize gap-3 px-2 py-1 border-blue-950 border hover:bg-linear-160 hover:to-blue-900 rounded-sm hover:from-blue-950 font-bold transition-colors duration-300 hover:border hover:border-gray-400  focus:shadow focus:border focus:border-gray-400 hover:text-gray-300">
-//       <div>
-//         <i data-lucide="house"></i>
-//       </div>
-//       <h2>dashboard</h2>
-//     </a>`
-//   // side_info.map(info => {
-//   // })
-//   document.querySelector(".side-info-container").appendChild(side_bar)
-// }
-
-// render_sidebar()
-
 export default render_tip
