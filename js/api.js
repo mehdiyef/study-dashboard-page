@@ -5,8 +5,8 @@ async function fetchData() {
   try {
     const [topics, tips] = await Promise.all([
 
-      fetch("../data/topics.json"),
-      fetch("../data/tip.json")
+      fetch(`${import.meta.env.BASE_URL}data/topics.json`),
+      fetch(`${import.meta.env.BASE_URL}data/tip.json`)
 
     ])
 
